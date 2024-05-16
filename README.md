@@ -1,4 +1,8 @@
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/SS-Rana/SS-Rana/output/snake.svg" alt="Snake animation" />
+
+###
 # 💫 About Me:
 Hi I am Sumit Singh Rana currently a university student<br>Currently, I am exploring new fields in computer science 
 
