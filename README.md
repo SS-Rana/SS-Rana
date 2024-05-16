@@ -16,9 +16,6 @@ Hi I am Sumit Singh Rana currently a university student<br>Currently, I am explo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SS-Rana&icon=0&color=0)](https://visitcount.itsvg.in)
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SS-Rana/SS-Rana/output/snake.svg" alt="Snake animation" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
